@@ -1,0 +1,41 @@
+.main {
+  background-color: black;
+  height: 100vh;
+  width: 100vw;
+  color: whitesmoke;
+  font-family: 'Sawarabi Mincho', sans-serif;
+}
+
+.container {
+  height: 100%;
+  width: 75%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.main-image {
+  height: 150px;
+  width: 180px;
+  border-radius: 50%;
+}
+
+h1 {
+  padding-left: 10px;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-around;
+  width: 50%;
+} 
+
+i {
+  color: whitesmoke;
+}
+
+i:hover {
+  color: Gray;
+}
