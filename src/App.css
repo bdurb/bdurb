@@ -22,10 +22,6 @@
   border-radius: 50%;
 }
 
-h1 {
-  padding-left: 10px;
-}
-
 .icons {
   display: flex;
   justify-content: space-around;
