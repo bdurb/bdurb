@@ -10,7 +10,7 @@ class App extends Component {
           <img className='main-image' src={brian} alt='me' />
           <h1>Hey, I'm Brian</h1>
             <div>
-              <h3>And I am a full stack web developer</h3>
+              <h3>And I am a Software Engineer</h3>
             </div>
             <div className='icons'>
               <a href='https://github.com/bdurb'>
